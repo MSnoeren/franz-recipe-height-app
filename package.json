@@ -1,6 +1,6 @@
 {
     "id": "heightapp",
-    "name": "franz-recipe-height-app",
+    "name": "Height",
     "version": "1.0.0",
     "description": "Franz recipe for Height.app.",
     "main": "index.js",
