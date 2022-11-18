@@ -1,0 +1,16 @@
+{
+    "id": "heightapp",
+    "name": "franz-recipe-height-app",
+    "version": "1.0.0",
+    "description": "Franz recipe for Height.app.",
+    "main": "index.js",
+    "author": {
+        "name": "Michael Snoeren",
+        "url": "https://michaelsnoeren.nl"
+    },
+    "license": "MIT",
+    "repository": "https://github.com/MSnoeren/franz-recipe-height-app",
+    "config": {
+        "serviceURL": "https://height.app/"
+    }
+}
